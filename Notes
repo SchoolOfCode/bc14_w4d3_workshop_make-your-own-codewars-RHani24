@@ -1,0 +1,7 @@
+// let array = [12,300,5,54,78,2];
+
+// function sortArray(array) {
+//  array.sort((a,b) => b-a);
+//     return array;
+// }
+// console.log (sortArray(array));
